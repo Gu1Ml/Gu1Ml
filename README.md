@@ -44,7 +44,7 @@ Procuro sempre aplicar o aprendizado em projetos reais e funcionais que comprova
 ---
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,bootstrap,npm,nextjs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,bootstrap,npm,mysql)](https://skillicons.dev)
 
 ---
 
