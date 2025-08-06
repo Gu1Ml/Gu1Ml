@@ -1,16 +1,14 @@
-# 👋 Olá, prazer, sou o Guilherme (Gu1ML)!
+# 👋 Olá, sou o Guilherme Lima!
 
 ### 💻 Estagiário de Desenvolvimento | apaixonado por transformar ideias em soluções reais
 
 ---
 
-## 🚀 Sobre mim
+## 👤 Sobre mim
 
-Desenvolvedor sempre em formação, entusiasta em tornar conceitos do cotidiano em soluções eficientes e principalmente prática. 
+Desenvolvedor sempre buscando conhecimento, focado em Desenvolvimento FullStack, tornando conceitos do cotidiano em soluções eficientes e principalmente prática. 
 Tenho direcionado meus estudos para C#, Python, Cobol, Desenvolvimento FullStack, MySQL e Angular. 
 Procuro sempre aplicar o aprendizado em projetos reais e funcionais que comprovam para mim mesmo minha competência.
-
----
 
 ## ⚙️ Skills & Tecnologias
 
@@ -18,37 +16,22 @@ Procuro sempre aplicar o aprendizado em projetos reais e funcionais que comprova
 - **Front-end:** Angular, React, HTML, CSS, SCSS, Bootstrap
 - **Banco de Dados:** MySQL
 - **Ambientes:** IBM Mainframe, Visual Studio, Visual Studio Code 
-- **Cloud:** Azure Fundamentals
-- **Sistemas operacionais:** Linux Ubuntu e Windows 
-
----
-
-## 📚 Sempre Aprendendo
-
-- Focado em Desenvolvimento FullStack
-- Explorando integrações entre tecnologias modernas e legados
-- Buscando transformar aprendizado teórico em resultados práticos
-
----
 
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-Guilherme%20Machado%20Lima-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-machado-lima)
 
----
 
 ## 🛠️ Ferramentas e Tecnologias
 
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js,ts,nodejs,python,java,docker)](https://skillicons.dev)
 
----
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=dotnet,angular,bootstrap,npm,mysql)](https://skillicons.dev)
 
----
 
-### 🛠️ Ferramentas de desenvolvimento e Sistemas
+### 📚 Ferramentas de desenvolvimento e Sistemas
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,git,postman,linux,windows)](https://skillicons.dev)
 
 _“A melhor forma de aprender é transformar teoria em prática!”_
