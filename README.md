@@ -13,7 +13,7 @@ Procuro sempre aplicar o aprendizado em projetos reais e funcionais que comprova
 ## ⚙️ Skills & Tecnologias
 
 - **Linguagens:** C#, Cobol, Python, Javascript, Typescript, Java
-- **Front-end:** Angular, React, HTML, CSS, SCSS, Bootstrap
+- **Front-end:** Angular, HTML, CSS, SCSS, Bootstrap
 - **Banco de Dados:** MySQL
 - **Ambientes:** IBM Mainframe, Visual Studio, Visual Studio Code 
 
