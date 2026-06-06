@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Guilherme Lima!
 
-### 💻 Estagiário de Desenvolvimento | apaixonado por transformar ideias em soluções reais
+### 💻 Desenvolvedor de Software JR. | apaixonado por transformar ideias em soluções reais
 
 ---
 
@@ -12,10 +12,10 @@ Procuro sempre aplicar o aprendizado em projetos reais e funcionais que comprova
 
 ## ⚙️ Skills & Tecnologias
 
-- **Linguagens:** C#, Cobol, Python, Javascript, Typescript, Java
+- **Linguagens:** C#, Cobol, Python, Typescript, Java
 - **Front-end:** Angular, HTML, CSS, SCSS, Bootstrap
-- **Banco de Dados:** MySQL
-- **Ambientes:** IBM Mainframe, Visual Studio, Visual Studio Code 
+- **Banco de Dados:** MySQL, POSTGREsql
+- **Ambientes:** IBM Mainframe, Visual Studio, Visual Studio Code, IntelliJ
 
 ## 🌐 Conecte-se comigo
 
