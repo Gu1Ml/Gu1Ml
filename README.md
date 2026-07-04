@@ -6,7 +6,7 @@
 
 ## 👤 Sobre mim
 
-Desenvolvedor sempre buscando conhecimento, focado em Desenvolvimento FullStack, tornando conceitos do cotidiano em soluções eficientes e principalmente prática. 
+Desenvolvedor sempre buscando conhecimento, focado em Desenvolvimento Backend, tornando conceitos do cotidiano em soluções eficientes e principalmente prática. 
 Tenho direcionado meus estudos para C#, Python, Cobol, Desenvolvimento FullStack, MySQL e Angular. 
 Procuro sempre aplicar o aprendizado em projetos reais e funcionais que comprovam para mim mesmo minha competência.
 
